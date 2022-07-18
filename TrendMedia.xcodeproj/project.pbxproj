@@ -13,6 +13,7 @@
 		8C55C5FF28852EF100A34020 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C55C5FD28852EF100A34020 /* Main.storyboard */; };
 		8C55C60128852EF400A34020 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C55C60028852EF400A34020 /* Assets.xcassets */; };
 		8C55C60428852EF400A34020 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C55C60228852EF400A34020 /* LaunchScreen.storyboard */; };
+		8C91718D2885414600383CE7 /* SecondTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C91718C2885414600383CE7 /* SecondTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8C55C60028852EF400A34020 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C55C60328852EF400A34020 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C55C60528852EF400A34020 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C91718C2885414600383CE7 /* SecondTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8C55C5F928852EF100A34020 /* SceneDelegate.swift */,
 				8C55C5FB28852EF100A34020 /* ViewController.swift */,
 				8C55C5FD28852EF100A34020 /* Main.storyboard */,
+				8C91718C2885414600383CE7 /* SecondTableViewController.swift */,
 				8C55C60028852EF400A34020 /* Assets.xcassets */,
 				8C55C60228852EF400A34020 /* LaunchScreen.storyboard */,
 				8C55C60528852EF400A34020 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C55C5FC28852EF100A34020 /* ViewController.swift in Sources */,
+				8C91718D2885414600383CE7 /* SecondTableViewController.swift in Sources */,
 				8C55C5F828852EF100A34020 /* AppDelegate.swift in Sources */,
 				8C55C5FA28852EF100A34020 /* SceneDelegate.swift in Sources */,
 			);
